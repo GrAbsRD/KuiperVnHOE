@@ -1,4 +1,4 @@
-# Code for the Paper Published in Stattistics and Computing
+# Code for the Paper Published in *Statistics and Computing*
 - **Authors**: Hong-Yan Zhang, Zhi-Qiang Feng, Haoting Liu, Rui-Jia Lin, Yu Zhou
 - **Title**:   *High order expansion method for Kuiper’s $V_n$ statistic in goodness-of-fit test*
 - **Journal**:  *Statistics and Computing*
